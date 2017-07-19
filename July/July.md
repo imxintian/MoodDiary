@@ -93,3 +93,8 @@
 > - [ ] 集合，collection接口
 > - [ ] hashset hashmap
 > - [ ] 重要的工具类
+---
+> `2017-7-16`  `星期三` `晴`
+
+> 其实每天都排的满满的。一直也想看看视频，可是总是平衡不了时间。今天主要学习String，StringBuffer,Date(),SimpleDateFormat(),以及calendar类的使用
+> 虽然简单，还是要多读读API,多练习使用才行。好啦，记完日记，去看下视频。
